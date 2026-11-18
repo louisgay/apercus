@@ -1,0 +1,3 @@
+# Démo privée — ne pas indexer.
+User-agent: *
+Disallow: /
